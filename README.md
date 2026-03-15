@@ -9,3 +9,5 @@ This is a living library of Python functions designed to automate and verify the
 - Translate mathematical formulas into reusable Python code.
 - Build a custom "engine" for solving foundational algebra and geometry problems.
 - Maintain a daily "Build Streak" to track cognitive and technical stamina.
+
+- WIP
