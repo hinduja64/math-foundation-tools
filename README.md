@@ -1,7 +1,7 @@
 # math-foundation-tools
 A Python library for automating and verifying concepts from MathAcademy's Foundation curriculum. Building the bridge between mathematics and algorithms.
 
-# Math Foundation Tools 🧠💻
+# Math Foundation Tools 
 
 This is a living library of Python functions designed to automate and verify the mathematical concepts I am mastering through the **MathAcademy** curriculum. 
 
